@@ -1,0 +1,74 @@
+.app {
+  text-align: center;
+}
+
+input {
+  padding: 4px;
+  margin-right: 8px;
+}
+
+
+ul {
+  /* Remove bullet point  */
+  list-style: none;
+}
+
+li {
+  margin: 12px 0;
+}
+
+.delete-button {
+  font-size: 10px;
+  margin-left: 8px;
+
+  border: none;
+  color: white;
+  border-radius: 4px;
+
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+h1{
+  background-color: blanchedalmond;
+  margin: 20px 390px;
+  border-radius: 15px;
+}
+
+#root{
+  background-color: aqua;
+  border: 2px solid black;
+}
+
+.container-fluid{
+  background-color: grey;
+  margin: 20px 390px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#ip-val{
+  border-radius: 5px;
+
+}
+
+#add-btn{
+  border-radius: 5px;
+  background-color: lightcoral;
+  cursor: pointer;
+}
+#add-btn:hover{
+  background: green;
+  box-shadow: 0 4px 15px 0 green;
+
+}
+
+.app{
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  background-color: #7fc1ff;
+  border-radius: 3px;
+  margin: 55px 190px;
+  padding: 50px 10px;
+}
